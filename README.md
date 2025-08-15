@@ -1,3 +1,3 @@
-# SFM - Application Complète
+# SFM - Code complet React
 
-Upload direct vers GitHub + déploiement Netlify.
+Projet prêt à installer avec npm et déployer.

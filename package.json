@@ -1,6 +1,6 @@
 
 {
-  "name": "sfm-complete",
+  "name": "sfm-full",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -10,9 +10,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.21.1",
-    "i18next": "^22.0.0",
-    "firebase": "^10.0.0"
+    "react-router-dom": "^6.21.1"
   },
   "devDependencies": {
     "vite": "^5.0.0",
