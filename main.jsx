@@ -1,0 +1,1 @@
+// React entry point with routing and i18n
